@@ -1,1 +1,1 @@
-FROM pinventado/26-resolute-small-tusk
+FROM ghcr.io/pinventado/26-resolute-small-tusk
