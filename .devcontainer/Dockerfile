@@ -1,1 +1,1 @@
-FROM mshafae/tusk-jammy
+FROM pinventado/26-resolute-small-tusk
